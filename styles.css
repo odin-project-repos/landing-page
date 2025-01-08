@@ -105,7 +105,7 @@ body > * {
 
 .third-section {
   background-color: #e5e7eb;
-  padding: 6rem 20rem;
+  padding: 6rem 27.5%;
 }
 
 .third-section em {
@@ -119,6 +119,7 @@ body > * {
   float: right;
   margin-top: 1rem;
 }
+
 .fourth-section {
   display: flex;
   justify-content: center;
@@ -146,4 +147,11 @@ body > * {
   padding: 0.5rem 3rem;
   font-weight: bold;
   font-size: 1rem;
+}
+
+footer {
+  text-align: center;
+  background-color: #1f2937;
+  color: #f9faf8;
+  padding: 2.5rem;
 }
