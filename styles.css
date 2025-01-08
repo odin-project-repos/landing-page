@@ -55,3 +55,16 @@ body > * {
   font-size: 18px;
   color: #e5e7eb;
 }
+
+.first-section button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding: 0.5rem 2rem;
+  font-weight: bold;
+  border-radius: 0.5rem;
+}
+
+.first-section > .text-section > * {
+  max-width: 50%;
+  margin: 1%;
+}
