@@ -119,3 +119,31 @@ body > * {
   float: right;
   margin-top: 1rem;
 }
+.fourth-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.signup-container {
+  background-color: #3882f6;
+  height: 100%;
+  width: 90%;
+  padding: 3rem 10rem;
+  border-radius: 1rem;
+  color: #f9faf8;
+  display: flex;
+  justify-content: space-between;
+}
+
+.signup-container button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border: 2px solid #f9faf8;
+  border-radius: 0.5rem;
+  padding: 0.5rem 3rem;
+  font-weight: bold;
+  font-size: 1rem;
+}
