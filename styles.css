@@ -102,3 +102,20 @@ body > * {
   border: 4px solid #3882f6;
   border-radius: 0.5rem;
 }
+
+.third-section {
+  background-color: #e5e7eb;
+  padding: 6rem 20rem;
+}
+
+.third-section em {
+  font-size: 36px;
+  font-weight: light;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.third-section .author {
+  float: right;
+  margin-top: 1rem;
+}
