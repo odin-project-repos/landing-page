@@ -13,3 +13,7 @@ body {
 .image-section img {
   width: 20rem;
 }
+.nav-container,
+.first-section {
+  background-color: #1f2937;
+}
