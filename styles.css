@@ -14,6 +14,7 @@ body > * {
 }
 
 .image-section img {
+  height: 20rem;
   width: 40rem;
 }
 .nav-container,
