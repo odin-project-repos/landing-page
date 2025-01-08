@@ -25,3 +25,7 @@ body {
 .header-logo {
   margin-right: auto;
 }
+
+.nav-list li {
+  list-style: none;
+}
