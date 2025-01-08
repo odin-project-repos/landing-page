@@ -40,8 +40,8 @@ body > * {
 .first-section {
   display: flex;
   justify-content: space-between;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   align-items: center;
   gap: 3rem;
 }
