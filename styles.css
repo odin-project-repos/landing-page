@@ -14,7 +14,7 @@ body > * {
 }
 
 .image-section img {
-  width: 20rem;
+  width: 40rem;
 }
 .nav-container,
 .first-section {
@@ -29,10 +29,29 @@ body > * {
 
 .nav-item {
   list-style: none;
-  color: #f9faf8;
   font-size: 18px;
+  color: #e5e7eb;
 }
 .header-logo {
   margin-right: auto;
   font-size: 24px;
+}
+
+.first-section {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  align-items: center;
+  gap: 3rem;
+}
+
+.first-section > .text-section > h1 {
+  font-size: 48px;
+  color: #f9faf8;
+}
+
+.first-section > .text-section > p {
+  font-size: 18px;
+  color: #e5e7eb;
 }
