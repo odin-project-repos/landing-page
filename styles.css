@@ -68,3 +68,37 @@ body > * {
   max-width: 50%;
   margin: 1%;
 }
+.second-section {
+  text-align: center;
+}
+.second-section h2 {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  margin-bottom: 3rem;
+  padding-top: 2rem;
+}
+
+.cards {
+  display: flex;
+  gap: 4rem;
+  justify-content: center;
+  padding: 0 10%;
+  text-align: center;
+  padding-bottom: 6rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  max-width: 10rem;
+}
+
+.card div {
+  height: 10rem;
+  width: 10rem;
+  border: 4px solid #3882f6;
+  border-radius: 0.5rem;
+}
