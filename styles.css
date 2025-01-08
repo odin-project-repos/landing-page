@@ -7,4 +7,6 @@
 
 body {
   font-family: Roboto, sans-serif;
+.image-section img {
+  width: 20rem;
 }
