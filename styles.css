@@ -17,6 +17,11 @@ body {
 .first-section {
   background-color: #1f2937;
 }
+
 .nav-list {
   display: flex;
+}
+
+.header-logo {
+  margin-right: auto;
 }
